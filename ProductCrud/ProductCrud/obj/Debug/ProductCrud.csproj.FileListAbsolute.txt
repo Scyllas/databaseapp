@@ -1,0 +1,10 @@
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\bin\Debug\ProductCrud.exe.config
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\bin\Debug\ProductCrud.exe
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\bin\Debug\ProductCrud.pdb
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\obj\Debug\ProductCrud.csprojAssemblyReference.cache
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\obj\Debug\ProductCrud.Properties.Resources.resources
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\obj\Debug\ProductCrud.csproj.GenerateResource.cache
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\obj\Debug\ProductCrud.csproj.CoreCompileInputs.cache
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\obj\Debug\ProductCrud.exe
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\obj\Debug\ProductCrud.pdb
+C:\Users\ITS\source\repos\ProductCrud\ProductCrud\obj\Debug\ProductCrud.Form1.resources
